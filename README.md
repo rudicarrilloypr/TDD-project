@@ -95,17 +95,18 @@ In the project directory, you can run:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Rudi Carrillo**
 
+- GitHub: [@rudicarrilloypr](https://github.com/rudicarrilloypr)
+- Twitter: [@__rudicarrillo](https://twitter.com/__rudicarrillo)
+- LinkedIn: [Rudi Carrillo](https://www.linkedin.com/in/rudi-carrillo/)
+- Instagram: [@__rudicarrillo](https://www.instagram.com/_rudicarrillo/)
 
-👤 **Antoine Makdessy**
+👤 **Muhammad Aminu Salihu**
 
-- GitHub: [@ANTOINE1128](https://github.com/ANTOINE1128)
-- LinkedIn: [Antoine (Tony) Makdessy](https://www.linkedin.com/in/antoine-makdessy/)
-
-👤 **Charles Andrews**
-
-- GitHub: [@forLoop94](https://github.com/forLoop94)
-- LinkedIn: [andrewscharlesuwem](https://www.linkedin.com/in/andrewscharlesuwem/)
+- GitHub: [@mohashyne](https://github.com/mohashyne)
+- Twitter: [@muhammadslyhu](https://twitter.com/muhammadsalyhu)
+- LinkedIn: [muhammad-salihu](https://linkedin.com/in/msalyhu)
 
 
 
@@ -117,7 +118,6 @@ In the project directory, you can run:
 Future changes:
 - Add Spec Tests
 - Add Basic UI
-- Etc
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
