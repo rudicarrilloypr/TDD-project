@@ -116,7 +116,6 @@ In the project directory, you can run:
 ## 🔭 Future Features <a name="future-features"></a>
 
 Future changes:
-- Add Spec Tests
 - Add Basic UI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
