@@ -1,23 +1,23 @@
 # solver.rb
 
 class Solver
-  def factorial(n)
-    raise ArgumentError, 'Negative numbers are not allowed!' if n.negative?
+  def factorial(number)
+    raise ArgumentError, 'Negative numbers are not allowed!' if number.negative?
 
-    return 1 if n.zero?
+    return 1 if number.zero?
 
-    (1..n).inject(:*)
+    (1..number).inject(:*)
   end
 
   def reverse(word)
     word.reverse
   end
 
-  def fizzbuzz(n)
-    return 'fizzbuzz' if (n % 15).zero?
-    return 'fizz' if (n % 3).zero?
-    return 'buzz' if (n % 5).zero?
+  def fizzbuzz(number)
+    return 'fizzbuzz' if (number % 15).zero?
+    return 'fizz' if (number % 3).zero?
+    return 'buzz' if (number % 5).zero?
 
-    n.to_s
+    number.to_s
   end
 end
